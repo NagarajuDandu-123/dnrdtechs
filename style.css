@@ -1,0 +1,67 @@
+body{
+  background-image: url("pexels-eriks-abzinovs-3117225.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  align-items:
+
+}
+p1
+{
+  color: orange;
+  text-align-last:right;
+}
+h2
+{
+  text-align:right;
+  text-decoration-style: double;
+  color:pink;
+}
+a{
+  color: white
+}
+p{
+  text-align:center;
+  color:pink;
+}
+table{
+  border-style: solid;
+  border-style: groove;
+  align-items: right;
+}
+td{
+  border-style: dotted;
+  border-style: inset;
+
+  color: pink
+}
+th{
+  color: white;
+  text-align: center;
+}
+marquee{
+  color: red
+}
+p2
+{
+  color: white;
+  text-align: center;
+}
+address{
+  color: pink;
+}
+form{
+text-align: right;
+  text-rendering: geometricPrecision;
+  background-color: green;
+  border-radius: 12px;
+  border-color: pink;
+  border-style: groove;
+
+}
+img{
+  align-items: left;
+  border-radius: 30px;
+}
+}
